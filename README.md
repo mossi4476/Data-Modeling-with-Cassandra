@@ -124,7 +124,7 @@ In addition to the data files, the project workspace includes 3 files:<br>
 
 ## Author
 
-**Xingya Zhou**
+**Dung Nguyen**
     
     
  
